@@ -12,9 +12,9 @@ This project simulates the solar system, displaying the Sun and planets orbiting
 
 ## Physics
 - Gravitational force between bodies is calculated using Newton's law of gravitation:
-  $$
-  F = \frac{G \cdot m_1 \cdot m_2}{r^2}
-  $$
+```math
+F = \frac{G \cdot m_1 \cdot m_2}{r^2}
+```
 - Velocities and positions of the bodies are updated based on the gravitational forces.
 
 ## How to Run

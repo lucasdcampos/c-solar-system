@@ -2,7 +2,9 @@
 
 This project simulates the solar system, displaying the Sun and planets orbiting around it. It uses Newton's law of gravitation to calculate forces and update the positions and velocities of celestial bodies. The simulation is rendered using the Raylib (C) library.
 
-<img src=screenshot.png width=400px>
+<p align="center">
+  <img src="screenshot.png" width="480px" />
+</p>
 
 ## Features
 - Simulates the orbits of the Sun, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
